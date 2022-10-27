@@ -535,7 +535,9 @@ class ChatBot(Client):
             elif (msg == "hi"):
                 reply = "Hello! How can I help you?"
                 sendMsg()
-
+         elif ("" in msg)
+                reply = "ChutWASEEM + CHUTZEESHAN + ALL HELPERS T9RII M9 K9 PHUD9 P9R L9N M9RU 🙂❤️ 73R1 M99 K1 CHU7 🙂 ❤ G9ST1 M99 K B9CHY 😉 ❤ T9RII B9HN KII CHUT K9 TUKR9 K9R K KUT0 K0 KHIIL90N 🙂❤️  T9RII B9HN KII CHUT P9R L9N M9RU ❤️🙂 T9RII B9HN K9 PHUD9 PH9RU 🙂❤️ KHOTII K9 B9CH9 N9S NO 😀🌚 T9RII B9HN KO CH0D CH0D KR PR3GN9NT K9R DU 😀🌚 T9RII B9HN K9 HIIR9 M9NDII K9 R09D P9R N9NG9 K9R K9 CH0DU 🌚💔 T9RII B9HN KII CHUT NIL9M K9RU 🌚😀 T9RII B9JII HIR9 M9NDII P9R G9ND MRW9TI TU B9DM9SH B9N R9H9 🙂🍌 UFF T9RII M9 KII PH9TI PHUDII P9R L9N M9RU 🙂🌚 SUN9 H9 T9RII B9JII HIR9 M9NDII P9R G9ND MRW9TI H9 😀🙂 H9Y T9RII B9HN KI GRM GRM PHUDII M9IIN L9N M9RU😀😀 T9RII B9HN KI K0S P9R L9N M9RU 🙂😀 T9RII B9HN K9 MUM9Y PH9RU GH9SIIT3 K9 B9CH9 🙂 M9DRCH0D BH9G M9T 🙂"
+                 sendMsg()
         except Exception as e:
             print(e)
 
@@ -653,9 +655,9 @@ class ChatBot(Client):
 cookies = {
     "sb": "xasyYmAoy1tRpMGYvLxgkHBF",
     "fr": "0NxayJuewRHQ30OX3.AWVJwIYNh0Tt8AJv6kSwDamhkoM.BiMrVd.Iu.AAA.0.0.BiMtVZ.AWXMVaiHrpQ",
-    "c_user": "",
+    "c_user": "100043222771986",
     "datr": "xasyYs51GC0Lq5H5lvXTl5zA",
-    "xs": ""
+    "xs": "48%3AiBY7R13gZj1fXw%3A2%3A1666888641%3A-1%3A5900"
 }
 
 
